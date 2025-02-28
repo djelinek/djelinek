@@ -2,7 +2,7 @@
 
 <h2 align="left">Introduction</h2>
 
-- 🔭 I’m currently working at [Red Hat](https://www.redhat.com/en) on [Tooling for Apache Camel](https://access.redhat.com/documentation/en-us/red_hat_build_of_apache_camel/4.4/html/developer_tooling_guide/index) and Testing framework called [ExTester](https://github.com/redhat-developer/vscode-extension-tester)
+- 🔭 I’m currently working at [Red Hat](https://www.redhat.com/en) on [Tooling for Apache Camel](https://access.redhat.com/documentation/en-us/red_hat_build_of_apache_camel/), [Kaoto](https://kaoto.io) and UI Testing framework called [ExTester](https://github.com/redhat-developer/vscode-extension-tester)
 - 👯 I’m looking to collaborate on **Toolings for Developers / Testing Frameworks / VS Code Extensions**
 - 💬 Ask me about **Tooling for Developers / Test Automation / VS Code Extensions / TypeScript / Apache Camel**
 - ⭐ I can give some tips on **Apple / Remote Work / Basketball / Gadgets**
