@@ -7,7 +7,7 @@
 - 💬 Ask me about **Tooling for Developers / Test Automation / VS Code Extensions / TypeScript / Apache Camel**
 - ⭐ I can give some tips on **Apple / Remote Work / Basketball / Gadgets**
 - 🎥 I regulary post videos on my [YouTube channel](https://www.youtube.com/@djelinek)
-- 📫 How to reach me: <djelinek@ibm.com>
+- 📫 How to reach me: <contact@dominikjelinek.cz>
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: **I really hated a programming at High School, and now it is my daily job.**
 
